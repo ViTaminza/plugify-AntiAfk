@@ -1,0 +1,3 @@
+# Verbatim production fixtures intentionally retain their original CRLF and trailing spaces.
+AntiAfk/settings.ini whitespace=cr-at-eol,-trailing-space
+AntiAfk/translations/antiafk.phrases.txt whitespace=cr-at-eol,-trailing-space
